@@ -1,4 +1,4 @@
-The app listed in the Google Play Store called "Cloudberry Lockscreen [ROOT]", its developers and its associates are herein referred to as "this software".
+The app listed in the Google Play Store as "Cloudberry Lockscreen [ROOT]", its developers and its associates are herein referred to as "this software".
 
 # Privacy Policy
 
